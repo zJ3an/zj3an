@@ -1,4 +1,4 @@
-## Hello! I'm J3an, Python Developer and Freelancer.
+## I'm J3an, Backend Developer in Python and Freelancer.
 
 <!--
 **dzj3an/dzj3an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
