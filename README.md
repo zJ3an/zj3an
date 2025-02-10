@@ -4,4 +4,5 @@
 [![Donate](https://img.shields.io/badge/Donate-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://j3an.vercel.app/donate.html)
 [![Telegram](https://img.shields.io/badge/Telegram%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ij3an)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzj3an&layout=compact&theme=dark)
+![Statistics](https://github-readme-stats.vercel.app/api?username=dzj3an&show_icons=true&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzj3an&layout=compact&theme=dark)
