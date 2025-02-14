@@ -40,9 +40,3 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/9k6wy7.jpg"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/dzj3an/dzj3an/output/snake.svg" alt="Snake animation" />
-
-###
